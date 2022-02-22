@@ -1,0 +1,367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief historical account of several of the most remarkable years of war, drought, famine, and pestilence in England, and the time when they happened together with an additional discourse of God's judgments, and the procuring cause of them : as also of the prediction of the late excellent mathematician and modest astrologer Mr. Vincent Wing, as to the present year 1699 / by a gent.</title>
+            <author>Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29454</idno>
+            <idno type="STC">Wing B4596</idno>
+            <idno type="STC">ESTC R37469</idno>
+            <idno type="EEBO-CITATION">16960502</idno>
+            <idno type="OCLC">ocm 16960502</idno>
+            <idno type="VID">105480</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105480)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1610:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief historical account of several of the most remarkable years of war, drought, famine, and pestilence in England, and the time when they happened together with an additional discourse of God's judgments, and the procuring cause of them : as also of the prediction of the late excellent mathematician and modest astrologer Mr. Vincent Wing, as to the present year 1699 / by a gent.</title>
+                  <author>Gent.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wells in London ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Disasters --  England --  Religious aspects --  Christianity.</term>
+               <term>God --  Wrath.</term>
+               <term>Apocalyptic literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105480:1" rendition="simple:additions"/>
+            <p>A BRIEF <hi>Hiſtorical Account</hi> Of ſeveral of the moſt remarkable Years of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ar, Drought, Famine,</hi> and <hi>Peſtilence</hi> IN ENGLAND, And the time when they happened.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gether, with an Additional diſcourſe of God's Judg<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ents, and the procuring cauſe of them. As alſo of the Prediction of the late excellent Mathematician and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odeſt Aſtrologer <hi>Mr. Vincent Wing,</hi> as to this preſent Year 1699.</p>
+            <p>By a Gent.</p>
+            <q>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ute juſtitiam moniti non temnere Dives.</p>
+               <bibl>Virg. Aen. 6.</bibl>
+            </q>
+            <q>
+               <l>— ubi non eſt pudor,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cura juris, Sanctitas, Pietas, Fides</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bile Regnum eſt —</l>
+            </q>
+            <q>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is to many men much dearer than their Faith and <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eſty, <bibl>Clemens Alexandrinus.</bibl>
+            </q>
+            <q>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> long ſhall the Land mourn, and the herbs of every <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er, for the iniquity of them that dwell therein? <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> are conſumed, <hi>&amp;c.</hi>
+               </p>
+               <bibl>Jer. 12.4.</bibl>
+            </q>
+            <p>Printed for <hi>John Wells</hi> in <hi>London-<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>-yard,</hi> near St. <hi>Pauls,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:105480:2"/>
+            <p>EXcellent is that Diſcourſe of Monſieur <hi>Charron</hi> in his Tract of Wiſdom. That the greateſt part of Mankind hath al<g ref="char:EOLhyphen"/>ways been led to ſerve God by fear of Vengeance which he Inflicts on the Contemners of his Majeſty, his Juſtice ſtrikes Men with dread, when they ſurvey the Strokes and Ex<g ref="char:EOLhyphen"/>amples of it on Mankind, as by Peſtilence, War, Famine, Tempeſts, and Inundations, by Light<g ref="char:EOLhyphen"/>nings diſcharged from Heaven and other like demonſtrations of his Vengeance. It is (ſaith he) a terrible Thing to fall into the hands of God, who though he is very merciful, yet is terrible in Execution of his Vengeance upon thoſe who Contemn him: And he further tells us, that all the World would be extinguiſhed and would pe<g ref="char:EOLhyphen"/>riſh and be loſt, if it were not changed and renewed by thoſe great accidents before men<g ref="char:EOLhyphen"/>tioned, which ſeaſon perfect and purify it, gi<g ref="char:EOLhyphen"/>ving Liberty and eaſe to the whole.</p>
+            <p>And accordingly it is the Judgment and Opi<g ref="char:EOLhyphen"/>nion of that learned and judicious French Pro<g ref="char:EOLhyphen"/>teſtant Divine <hi>Amiraldus,</hi> in his Treatiſe of Reli<g ref="char:EOLhyphen"/>gions, who ſaith, that when Men are grown to a great height of Wickedneſs and will not be re<g ref="char:EOLhyphen"/>formed, God then ſtrikes Men with dread, that when they ſurvey the Strokes and Example of his diſpleaſure upon Mankind by Peſtilences Wars, Famines, Tempeſts, and Inundations and by Lightnings diſcharged from Heaven and
+<pb n="3" facs="tcp:105480:2"/>other demonſtrations of his Vengeance: From that (ſaith he) the greateſt part of Mankind hath always been led to ſerve God, even by fear of his Vengeance which he inflicts on the Contemners of his Majeſty.</p>
+            <p>With which alſo agrees the Judgment and Opinion of that eminent Divine Dr. <hi>Will. Sher<g ref="char:EOLhyphen"/>lock,</hi> Dean of St. <hi>Paul's</hi> and Maſter of the Tem<g ref="char:EOLhyphen"/>ple, in a printed Sermon of his, who therein tells us, that when Mankind is grown incurably and univerſally Wicked, it doth not become God to permit and ſuffer the Earth to be an eternal nur<g ref="char:EOLhyphen"/>ſery of Atheiſts and Rebels againſt the Majeſty of Heaven.</p>
+            <p>Now as all Sins provoke God to ſend down his Judgments upon a Nation and People, but eſpecially Pride, fulneſs of Bread, <hi>(i. e.)</hi> Luxury, and Idleneſs, the Sins of Sodom; as alſo Dr. <hi>Tillotſon</hi> when Dean of <hi>Canterbury</hi> hath informed us, that great Sin next to Idolatry, <hi>viz.</hi> Per<g ref="char:EOLhyphen"/>jury, is one of the greateſt affronts that can be to the Divine Majeſty, for this is one of the Sins that cry aloud to Heaven, and quicken the pace of Gods Judgments. This Sin by the ſecret Judgment of God undermines Eſtates, and Families, to the utter Ruin of them: And among the Heathens it was always reck'ned one of the greateſt Crimes, and which they did be<g ref="char:EOLhyphen"/>lieve God did not only puniſh upon the guilty Perſon himſelf, but upon the Family and Poſte<g ref="char:EOLhyphen"/>rity, and many times upon whole Nations, (as the Prophet ſpeaks, <hi>Jer.</hi> 23.10. for becauſe of ſwearing the Land mourns. It is (ſaith he fur<g ref="char:EOLhyphen"/>ther)
+<pb n="4" facs="tcp:105480:3"/>certainly a Sin of the higheſt Nature, de<g ref="char:EOLhyphen"/>liberate Perjury, being directly againſt a Mans knowledge, ſo that no Man can commit it, without ſtaring his Conſcience in the Face, which is one of the greateſt aggravations of a Crime, and it is a Sin equally againſt both Ta<g ref="char:EOLhyphen"/>bles, and being the higheſt affront to God, and of moſt injurious conſequence to Men, a wrong not only to this or that Man particularly that ſuffers by it, but alſo is Treaſon againſt humane Society, ſubverting at once the foundation of publick Peace and Juſtice, and the private ſecu<g ref="char:EOLhyphen"/>rity of every Mans Life and Fortune. So when ever Religion fails and Oaths are nothing ſet by, human Society muſt disband, and all things run into diſorder, which (ſaith he) made <hi>David</hi> cry out <hi>Pſ.</hi> 12. <hi>Help Lord, for the godly Man ceaſeth,</hi> &amp;c. Intimating, that when faith, that is fidelity, fails from among Men, nothing then but an imme<g ref="char:EOLhyphen"/>diate Interpoſition of Heaven can preſerve the World from falling into confuſion and ruine.</p>
+            <p>This ſtate of things, when Faith and Truth ſhall hardly be found among Men (as is men<g ref="char:EOLhyphen"/>tioned, <hi>Luke</hi> 18.8. When the Son of Man com<g ref="char:EOLhyphen"/>eth, ſhall he find Faith, that is, Fidelity on the Earth,) doth loudly call for Chriſt's coming to deſtroy the World, which is even ready to diſ<g ref="char:EOLhyphen"/>ſolve and fall in pieces of it ſelf, when theſe bands and Pillars of Human Society do break and fail. And ſurely (ſaith he) never in any Age was this ſign of the coming of the Son of Man more glaring and terrible, than in this de<g ref="char:EOLhyphen"/>generate Age wherein we live, when almoſt all
+<pb n="5" facs="tcp:105480:3"/>ſorts of Men ſeem to have broke looſe from all <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligations to Faith and Truth.</p>
+            <p>And further to evince the truth of our Guilt of this crying Sin; let us ſee what was that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>genious, free, and open acknowledgment in Print of our <hi>London</hi> Divines, in their publick Declaration <hi>Anno</hi> 1660. wherein they complain of the odious ſcandal of thoſe that then profeſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d themſelves the People of God, particularly <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir ſelf ſeeking under the pretence of publick <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood, and their unparalell'd breach of all civil <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſacred Oaths and Covenants both to God of Man.</p>
+            <p>As alſo our Guilt herein appears, by what <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Divine Dr. <hi>Richard Sherlock</hi> of <hi>Lanca<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r,</hi> incerts in his excellent Tract, called <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Practical Chriſtian, Printed <hi>Anno</hi> 1677. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erein he thought fit to give us in this Nation <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pious and devout Confeſſion of Sin, <hi>viz.</hi> I <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeen the Reverend Name and Oath of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d impoſed on the Conſciences of Men out <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Tyranny and Covert of Oppreſſion and Inju<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, and I alſo partly for fear, and partly for <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur and affection to unjuſt Deſigns, have <gap reason="illegible" resp="#UOM" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>edly taken the ſame Oaths and Engage<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ts; and though becauſe of ſuch Oaths the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſadly mourns, yet have I not been hum<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> for the Sins and Perjuries of this ſinful Na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Beſides alſo, that Reverend Divine Dr. <hi>Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>
+               </hi> (when Dean of <hi>Peterborough</hi>) in his pious <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> excellent Tract of Repentance and Faſting, <gap reason="illegible" resp="#UOM" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ced <hi>Anno</hi> 1686. there exhorts us in this Na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e to beſeech God <hi>to deliver us from all blind<g ref="char:EOLhyphen"/>neſs
+<pb n="6" facs="tcp:105480:4"/>of heart</hi>— ſo moſt eſpecially, <hi>from all Sedition and privy Conſpiracy and Rebellion, from all falſe Doctrine, Hereſie, and Schiſm, from hardneſs of heart and contempt of God's Word and Commandments;</hi> which (ſaith he) was never more neceſſary than in theſe days. And he there further ſaith, that it is a ſad melancholy ſight to behold the Spirit of Blindneſs and Gid<g ref="char:EOLhyphen"/>dineſs, of Faction and Rebellion, that hath ſeiz<g ref="char:EOLhyphen"/>ed on a great part of the Nation; our ſenſleſs Contentions and Oppoſitions, the wide Breaches and Diviſions, for which we can ſee no healing. And (ſaith he) it may juſtly challenge (if there were nothing elſe to trouble us) great thoughts and ſearchings of heart, more eſpecially if we conſider, not only how inſenſible moſt People are of all ſuch matters (which in bodily Di<g ref="char:EOLhyphen"/>ſtempers is accounted the worſt ſymptom in the whole World?) For how few have been amen<g ref="char:EOLhyphen"/>ded by the publick Judgments, which have ei<g ref="char:EOLhyphen"/>ther threatned us, or fallen upon us, (for which ſtubborn Impiety and impudent Wickedneſs (which every where hath too much abounded among us) every good Man ought to be very much afflicted, and not only content himſelf with this, that he doth not follow them in their ungodly Practices; but to bewail alſo as many as have ſinned, and have not repented (as the Apoſtle ſpeaks, 2 <hi>Cor.</hi> 12. laſt) of the unclean<g ref="char:EOLhyphen"/>neſs — and other abominable Sins which they have committed.</p>
+            <p>For this is really (ſaith he) the ſaddeſt ſpe<g ref="char:EOLhyphen"/>ctacle of all others; to behold ſuch numbers a have not been at all touched with any remorſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:105480:4"/>for their own Sins, nor any grief for publick Ca<g ref="char:EOLhyphen"/>lamities, nor any fear of future danger, but have encouraged one another to think only, of eating and drinking, and riſing up to play, which all ſober Men cannot but look upon, to be as unſeemly a ſight, as if Men ſhould go dance about their Parents or neareſt Relations, when they ſaw them a dying; and here by the by, may <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not omit to inform you, what a monſtrous piece of Hypocriſie I once ſaw, <hi>viz.</hi> (a Gent. in a Scarlet Cloak, as I eſteem'd him to be) ſet in the Stocks <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Old Jury, London,</hi> for ſome immorality, by order of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Pennington</hi> then L. Mayor (as I remember) who before <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> headed the Rabble, and preſented a Petition to the Parliament againſt Biſhops, and afterwards was one of the High Court of Juſtice for the Tryal of King <hi>Charles</hi> I.</p>
+            <p>Now, beſides our former Guilt in our Hypo<g ref="char:EOLhyphen"/>criſie, Rebellion, and abominable Sacrilege, when <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not only overturned the Government of the Church, and alienated and ſold the Church lands, altering the fundamental Conſtitution of the Civil Government, and ſelling all the Crown lands, and after turning our ſelves into a Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onwealth, Dethroning and Murthering our lawful Prince (and he one of the beſt Princes <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the World, in his time) <hi>&amp;c.</hi> How vaſtly have <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> improved in our horrid guilt of Perjury, is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o evident to be denyed? Alſo may we not <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thought to be fallen into the Times that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prophet <hi>Jer.</hi> complains of? Chap. 9. ver. 4. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 5. <hi>Take ye heed every one of his Neighbour, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed truſt ye not in any Brother, for every Brother <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> utterly ſupplant,</hi> &amp;c. <hi>And they will every one <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ceive his Neighbour, and will not ſpeak the truth, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> 8.9. <hi>Their Tongue is as an Arrow ſhot out, it
+<pb n="8" facs="tcp:105480:5"/>ſpeaketh deceit, one ſpeaketh peaceably to his Neighbour with his Mouth, but in heart he layeth his wait.</hi> All which being ſeriouſly conſidered; may it not be truly ſaid? was ever this Nation, or any other Nation in the World, ſo horridly Wicked before? ſo that we may juſtly expect that God ſhould expoſtulate with us and ſay, (as once he did to the People of <hi>Iſrael, Jerm.</hi> 5.9.) before mentioned, <hi>ſhall I not viſit for theſe things? ſaith the Lord? and ſhall not my Soul be avenged on ſuch a Nation as this.</hi> And what was this for? even becauſe their tranſgreſſions are many, and their backſlidings are increaſed, v. 6.</p>
+            <p>And may we not expect that diſmal Doom, pronounced by God, by his Prophet <hi>Iſaiah.</hi> Chap. 6.9.10.11.12. <hi>And he ſaid, Go tell this People, hear ye indeed, but underſtand not, and ſee indeed, but perceive not, make the Heart of this People Fat, and make their Ears heavy, and ſhut their Eyes; leſt they ſee with their Eyes, and hear with their Ears, and underſtand with their Hearts, and convert and be healed. Then ſaid I, Lord how long? and he anſwered, until the Citys be waſt<g ref="char:EOLhyphen"/>ed without inhabitants, and the Houſes without Man, and the Land be utterly deſolate,</hi> &amp;c.</p>
+            <p>For we ſhould wiſely conſider, that there are in this World, certain Periods of Gods Patience, and Forbearance of Nations, and Kingdoms, in their Wickedneſs: As the Scriptures inform us, when God Viſits their Iniquities and pours down Vengeance upon them, as upon the old World, <hi>Gen.</hi> 6.5. <hi>And God ſaw that the Wicked<g ref="char:EOLhyphen"/>neſs of Man was great in the Earth, and that
+<pb n="9" facs="tcp:105480:5"/>every Imagination of the thought of his heart was Evil continually,</hi> — v. 7. <hi>I will deſtroy Man whom I have created, from the face of the Earth,</hi> whereupon God brought upon them that great deſolation of the univerſal Deluge.</p>
+            <p>And again <hi>Gen.</hi> 18.20. <hi>The Lord ſaid becauſe the Cry of Sodom and Gomorrah is great; and be<g ref="char:EOLhyphen"/>cauſe their Sin is very grievous. Therefore the Lord <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hought ſpeedily upon them deſolation and deſtru<g ref="char:EOLhyphen"/>ction, and by fire from Heaven totally deſtroyed them.</hi>
+            </p>
+            <p>Further as to the Rebellion of <hi>Korah,</hi> and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Companions <hi>Gen.</hi> 16.32. And whereupon God brought that amazing Deſolation, and Ruin upon them (the Earth opening her Mouth and ſwallowing them up, and all that belonged to them) <hi>they went down alive into the Pit, and the Earth cloſed upon them and they periſhed from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mong the Congregation.</hi>
+            </p>
+            <p>Afterward great was the divine Vengeance poured down upon the Rebellion of the ten Tribes, and their defection from their lawful Prince <hi>Rehoboam,</hi> and the Houſe of <hi>David,</hi> God ſeverely plagued them by degrees. Firſt by their <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſs of the true Religion and Worſhip of God, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gain by their wicked Kings and Governours, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aving not one good King ever after) and af<g ref="char:EOLhyphen"/>ter Gods long Patience during (it is ſaid of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bout 250 Years) they were at laſt carried way Captive, and were wholy extirpated from <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the face of the Earth, none knowing to this <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay what became of them, ſo that they paid dear <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the long forbearance of the Divine Venge<g ref="char:EOLhyphen"/>ance, in the Concluſion.</p>
+            <pb n="10" facs="tcp:105480:6"/>
+            <p>And how tranſcendently great and terrible, was the Divine Vengeance upon <hi>Jeruſalem,</hi> (greater than the World ever ſaw before,) within about 40 Years after our bleſſed Sa<g ref="char:EOLhyphen"/>viour had given them warning, ſaying <hi>Luke</hi> 17.26. <hi>And as it was written in the Days of Noah, ſo ſhall it be alſo in the days of the ſon of Man,</hi> v. 27. <hi>they did eat, they drank, they mar<g ref="char:EOLhyphen"/>ried wives, they were given in marriage, until the day that Noah entred into the Ark: And the flood came and deſtroyed them all:</hi> v. 28. <hi>Likewiſe alſo as it was in the days of Lot, they did eat, they drank, they bought, they ſold, they planted, they builded,</hi> ver. 19. <hi>But the ſame day that Lot went out of Sodom, it rained fire and brimſtone from heaven, and deſtroyed them all</hi> ver. 30. <hi>even thus ſhall it be in the day when the ſon of Man is revealed,</hi> Luke 21.22. <hi>for theſe be the days of vengeance.</hi> ver. 23.24. — <hi>for there ſhall be great diſtreſs in the land, and wrath upon this people, and they ſhall fall by the edge of the ſword, and ſhall be led away captive into all nations, and Jeruſalem ſhall be trod<g ref="char:EOLhyphen"/>den down of the Gentiles. &amp;c.</hi>
+            </p>
+            <p>And now may I preſent to our view, and ſe<g ref="char:EOLhyphen"/>rious conſideration, ſome few of the many, moſt Dreadful and Remarkable ſtrokes of the Di<g ref="char:EOLhyphen"/>vine Vengeance, which have in ſeveral Ages fallen upon our own Nation of England.</p>
+            <p>To begin with that Relation I meet with in an Author called <hi>Britanniae ſpeculum</hi> printed 1683 who telleth us, that about Anno 438. In the 8th Year of the Reign of King <hi>Vortigern,</hi> King of the <hi>Brittains</hi> after the horrible devaſta<g ref="char:EOLhyphen"/>tion,
+<pb n="11" facs="tcp:105480:6"/>made among them by the <hi>Picts</hi> breaking in upon them, and of Famine, yet after their pin<g ref="char:EOLhyphen"/>ching hunger was paſt, and their Enemies were retreated from them, being partly repelled by force. That yet their Piety vaniſhed, and Luxury ſucceeded, accompanied with all ſorts of vice which infected not only the Layety, but the Clergy alſo, and that altho God ſent to reclaim them by his Scourge the Peſtilence, that raged ſo horribly among them, that the living were ſcarce able to bury their dead, yet with this ſeverity they were nothing at all amended, Gods Patience being ſpent towards a People that grew worſe by Proſperity and Adverſity, God ſo infatuated them that they called in a forreign Nation worſe and more cruel than the <hi>Picts,</hi> to their own Confuſion and Ruin, in Concluſion.</p>
+            <p>Alſo in the Reign of King <hi>Edward</hi> the II. King of <hi>England:</hi> Anno. 1307. In the beginning of his Reign, who having a vaſt Army of 100000 Men and incountring <hi>Robert Bruce</hi> the King of <hi>Scots,</hi> his army was totally overthrown at <hi>Ban<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocksburrow,</hi> by a ſmall contemptible Army of <hi>Scots,</hi> by ſtratagem, the conſequent thereof was, the <hi>Engliſh-men</hi> became ſo faint hearted and ſo contemptible, that three <hi>Scots</hi> durſt venture up<g ref="char:EOLhyphen"/>on a 100 <hi>Engliſh-men,</hi> when 100 <hi>Engliſh-men</hi> durſt ſcarce encounter with three <hi>Scots,</hi> (a grievous and ſore Calamity indeed) and that the <hi>Scots</hi> poſſeſſed all the north Part of the Kingdom as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar as York.</p>
+            <p>And in the 18th of the ſaid King <hi>Edward</hi> the I. King of <hi>England</hi> 7 years after the Battel of
+<pb n="12" facs="tcp:105480:7"/>
+               <hi>Bannocksburrow</hi> Anno 1314. there was ſo great a Famine, that Horſes and Dogs were eaten, &amp; Thieves in Priſon plucked in pieces, thoſe which were newly brought in among them, and eat them half alive, which Famine continuing three Years, brought in the end ſuch a Peſtilence, that the living ſcarce ſufficed to bury the dead.</p>
+            <p>And in the Reign of King <hi>Richard</hi> the I. King of England, who began his Reign Anno 1189. There was ſuch a drought for three or four Years together, which cauſed ſo great a ſcarcity, upon which followed ſo great a Mor<g ref="char:EOLhyphen"/>tality, that ſcarcely the living ſufficed to bury the dead.</p>
+            <p>And in the reign of King <hi>Henry</hi> the 3d King of <hi>England</hi> Anno 1232, there appearing three Suns at once, there preſently followed ſo great a Famine that people were conſtrained to eat horſes Fleſh, and the bark of Trees, and that then there died twenty thouſand people in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> ſtarved for want of food.</p>
+            <p>In the 22 Year of King <hi>Edward</hi> the third An<g ref="char:EOLhyphen"/>no 1348. A contagious Peſtilence there was in the Eaſt and South parts of the World, and ſpread it ſelf over all <hi>Chriſtendom,</hi> and at laſt coming into <hi>England,</hi> continuing many Years, it ſo waſted the People, that ſcarce the tenth perſon of all ſorts was left alive.</p>
+            <p>In the third Year of King <hi>Richard</hi> the ſecond King of <hi>England</hi> Anno 1379. There was ſo great a Mortality which afflicted the north Parts of <hi>England</hi> that the Country became almoſt deſo<g ref="char:EOLhyphen"/>late.</p>
+            <pb n="13" facs="tcp:105480:7"/>
+            <p>In the ſevententh Year of the Reign of King <hi>Edward</hi> IV. King of <hi>England</hi> 1476. ſo great a Pe<g ref="char:EOLhyphen"/>ſtilence Reigned in <hi>England</hi> that it ſwept away more People in four Months time, than the Wars had done in fifteen Years then paſt. And two Years after the ſame Anno 1478. In his 19 Year there was another Peſtilence, which beginning at the latter end of Sept. continued to the beginning of November come twelve Month after, in which Time innumerable Peo<g ref="char:EOLhyphen"/>ple died.</p>
+            <p>In the 19th Year of King <hi>Henry</hi> the 8 King of <hi>England</hi> Anno 1527. by Reaſon of Extremity of Rain in ſeed Time there followed a great famine, Dearth, and Scarcity of Corn, which would have cauſed a great Calamity, but it was prevented by the Merchants of the ſtill-yard bringing it out of <hi>Germany,</hi> and a thouſand Quar<g ref="char:EOLhyphen"/>ters being iſſued out of the Kings own Proviſion.</p>
+            <p>And in his three and thirtieth Year Anno 1541. there was ſo great a Mortality by Rea<g ref="char:EOLhyphen"/>ſon of hot Agues, and Fluxes, and withall ſo great a Drought, that ſmall Rivers were Clean dryed up, and much Cattle dyed for lack of Water.</p>
+            <p>And in the fifth Year of the Reign of Queen <hi>Mary,</hi> Queen of <hi>England</hi> Anno 1559. In harveſt Time, there was ſo great a Mortality, eſpecially of Prieſts, ſo as many Churches were unſerved, and much Corn was loſt for want of Workmen to get it in, whereupon enſued a great Famine.</p>
+            <p>And in the thirty fifth Year of the Reign of Queen <hi>Elizabeth</hi> Queen of <hi>England</hi> Anno 1592. There was ſo great a Drought, that not only
+<pb n="14" facs="tcp:105480:8"/>the Fields, but the ſprings themſelves were dry ed up, and many Cattle every where dyed for want of Water, ſo that the River <hi>Thames</hi> did ſo fail, that a Horſeman might ride over the faid River at <hi>London-Bridge.</hi> And the Year follow<g ref="char:EOLhyphen"/>ing Anno 1593. There followed a great Plague in <hi>London,</hi> ſo as there dyed that Year in London and the Suburbs, ſeventeen thouſand Eight hun<g ref="char:EOLhyphen"/>dred and ninety, beſides the Lord Mayor and three Aldermen.</p>
+            <p>To draw towards a Concluſion, Capt. <hi>John Graunt,</hi> in his Natural, and Political, obſerva<g ref="char:EOLhyphen"/>tions made upon the bills of Mortality. Printed 1676. Informs us, that there hath been within our Age, four Times of great Mortality, <hi>viz.</hi> 1592. 1593. 1603. 1625. unto which may now be added that of 1669. &amp; that the plague of 1636 laſted 12 Years, in 8 whereof there dyed 20000. <hi>per An.</hi> one with another, and never under 300.</p>
+            <p>Now from the ſerious Conſideration of the premiſſes, may we not rationally conclude what Calamities from the ſtrokes of divine Ven<g ref="char:EOLhyphen"/>geance we in this Nation are lyable to, when ever Gods Patience, and Forbearance, is tyred and worn out, and come to an end, by means of our provoking Sins, and Iniquitys, and that it is highly rational not to be ſecure or put far from us the evilday, but ſeriouſly conſider that great Guilt, which it's much to be feared, lies upon this Nation at this Day, for if it ſhall be found that although we have enjoyed the beſt refor<g ref="char:EOLhyphen"/>med Chriſtianity in the World, yet at laſt that it ſhould appear we have been the worſt of Chriſtians, what can we expect?</p>
+            <pb n="15" facs="tcp:105480:8"/>
+            <p>Doth not the innocent Blood of our Marty<g ref="char:EOLhyphen"/>red Soveraign King <hi>Charles</hi> the Firſt. of bleſſed Memory now cry afreſh to Heaven againſt us, when there are ſo many among us, who now again Murther him in his Reputation, and Ho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our, (now as one ſaith, Innocence is the near<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t reſemblance of God, therefore to injure In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cence is to in jure God himſelf, and this doubt<g ref="char:EOLhyphen"/>eſs if it be in the Perſon of a Prince whether Old or Young is a provoking Sin) and here to give you a ſhort hiſtorical account of things, in our times of Rebellion.</p>
+            <p>Did not we in this Nation after a cruel civil War and Rebellion, againſt our Lawful Sove<g ref="char:EOLhyphen"/>raign at laſt trying and condemning him and murthering him at his own pallace Gate, and after our ſeeming Repentance (which lyes up<g ref="char:EOLhyphen"/>on Record againſt us) have we not returned greedily with the Dog to his Vomit again, <hi>&amp;c.</hi> yea juſtifying and applauding thoſe curſed Doctrins and Principles, that were made uſe of by <hi>Bradſhaw</hi> and the reſt of the Regicides to cut off the Head of that Pious Prince. And cer<g ref="char:EOLhyphen"/>tainly till we can find out ſuch an other piece of horrid Villany to match it in all the moſt bar<g ref="char:EOLhyphen"/>barous Nations of the World at this Day. It will be a difficult buſineſs to wipe of the Impu<g ref="char:EOLhyphen"/>tation that we are the worſt Chriſtians that ever were produced in the World before. And then what a Terrible amazing Judgment may we not juſtly expect ere it belong which the longer it is a coming is like to fall the heavier upon us, even ſuch as will Startle and Amaze the bold and confident Atheiſts and Deiſts of our Times. The
+<pb n="16" facs="tcp:105480:9"/>Sinners in <hi>Zion</hi> then will be afraid, fearfulneſs hath ſurpriſed the Hypocrites as the Prophet <hi>Iſaiah</hi> ſpeaketh Chap. 33.14. who among us ſhall dwell with the devouring Fire &amp; who amongſt us ſhall dwell with everlaſting Burnings? and con<g ref="char:EOLhyphen"/>ſidering (as our Divines inform us) that Kingdoms and Nations as ſuch are not capable of being puniſhed in the other World, therefore muſt be puniſhed in this; as alſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what a late eminent Mathematician and modeſt Aſtrolog<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Mr. <hi>Vincent Wing</hi> in his Almanack for the Year 1669 ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> told us, <hi>viz.</hi> that about the Year 1692 or a little befo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 1700 many expect great Alterations and Changes in this World, if not the diſſolution of this earthly Fabrick. The Lord fit us to embrace his Mercy and patiently to wait for his ſecond coming <hi>Amen.</hi> And the ſame Mr. <hi>Wing</hi> predicted the Reſtauration of King <hi>Charles</hi> the ll. (as I have been credibly informed being his Neighbour in the Country of <hi>Rutland,</hi> after the Reſtauration.) And alſo in his Al<g ref="char:EOLhyphen"/>manack for the Year 1672 he thus far predicted the Riſe of the King of <hi>France</hi> to his grandeur, in theſe Words, <hi>viz.</hi> if there be any Verity in Aſtrology ſome great Perſon will very ſhortly appear upon the publick Stage with more then ordinary luſter, and further intimates that <hi>Paris</hi> and <hi>Fr.</hi> to be concerned herein I need not tell you what followed thereupon. But altho God hath his Councel in Heaven by himſelf yet he is pleaſed ſometimes to give intimation of approaching Judgments upon Nations and Kingdoms; but had we no other intimations of Judgments but thoſe of our Sin and Guilt before mentioned, and more eſpecially if we take in that wife ſaying of that heathen Philoſopher <hi>Antiſthenes,</hi> that common wealths were then deſtroyed when they have loſt once their diſtinction betwixt Good and Evil; it is much to be feared that the wanting the Hone<g ref="char:EOLhyphen"/>ſty of Heathens will be the ruine of us Chriſtians, altho we are in Profeſſion the beſt ſort of Chriſtians at this day in the World. I humbly conceive we ſhould not therefore be too preſumptious and to put the evil Day far from us; but to think of timely preventive Repentance with <hi>Nine<g ref="char:EOLhyphen"/>veh,</hi> that ſo our Iniquities may not be our ruin. I ſhall conclude with <hi>Pſal. 76.7. Thou even thou art to be fear<g ref="char:EOLhyphen"/>ed, and who may ſtand in thy Sight when once thou art an<g ref="char:EOLhyphen"/>gry.</hi> From all thy Wrath and from all our Sins.</p>
+            <closer>
+               <hi>Good Lord deliver us.</hi> Amen.</closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
